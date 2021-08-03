@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "imagenesangular": {
+      "hosting": {
+        "fotosFirebase": [
+          "imagenesangular"
+        ]
+      }
+    }
+  }
+}
